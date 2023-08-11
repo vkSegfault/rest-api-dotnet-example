@@ -1,0 +1,3 @@
+@id=0000000-00000
+
+GET http://localhost:5288/breakfast/{{id}}
